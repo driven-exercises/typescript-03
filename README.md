@@ -5,5 +5,6 @@
 - Refatore o código TS a seguir colocando os tipos onde julgar necessário.
 
 ### Como rodar
-- Instale as dependências com o comando npm i.
-- Rode o comando npm run dev e veja os resultados no terminal.
+- Instale as dependências com o comando `npm i`.
+- Rode o comando `npm run dev` e veja os resultados no terminal.
+- OBS: se tudo estiver certo, note que para mostrar o resultado no terminal, é necessário chamar a função que você quer executar
